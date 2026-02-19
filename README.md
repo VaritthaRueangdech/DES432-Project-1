@@ -2,24 +2,21 @@
 This project focuses on performing Exploratory Data Analysis (EDA) and basic statistical inference on a real-world financial transaction dataset. The objective is to understand data quality issues, explore patterns and relationships, and draw conclusions using statistical reasoning rather than predictive modeling.
 
 **Requirements**
-   - Python 3.8 or higher
+   - Google Account
+   - Internet Connection
    - Google Colab
 
-**Running the Project**
+**Running the Project**  
 To ensure proper execution, run the scripts in the following order:
-1. Load the Project
-   ```
-   git clone <your-repository-link>
-   cd <repository-folder-name>
-   ```
+1. Download all files from GitHub
+   
+2. Open Google Colab
 
-2. Open Google Colab 
-
-3. Open and Run `Import_and_Cleaning.ipynb`
-   In the nothebook it will require you to import the file, please select `Finance_Ecommerce.csv`.
+4. Open and Run `Import_and_Cleaning.ipynb`
+   In the notebook it will require you to import the file. Please select `Finance_Ecommerce.csv`.
    Click “Run All” or execute cells sequentially from top to bottom.
 
-4. Open and Run `EDA_and_Visualization.ipynb`
-   In the nothebook it will require you to import the file, please select `Finance_Cleaned.csv`.
+5. Open and Run `EDA_and_Visualization.ipynb`
+   In the notebook it will require you to import the file. Please select `Finance_Cleaned.csv`.
    Click “Run All” or execute cells sequentially from top to bottom. 
  
